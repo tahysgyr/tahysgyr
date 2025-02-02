@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm tahysgyr 🐘</h1>
-<h3 align="center">Programmist from Russia 🇷🇺</h3>
+<h3 align="center">Jun from Russia 🇷🇺</h3>
 <img src="https://otvet.imgsmail.ru/download/287651008_3d44988a28daf98171b2d5a9d41b7cd9_800.jpg" alt="ХЫ!">
 <!--
 **tahysgyr/tahysgyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
